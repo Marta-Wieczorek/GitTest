@@ -1,1 +1,2 @@
 Nowy plik tekstowy na developie
+Te zmiany zostały zrobione w branchu newBranch
